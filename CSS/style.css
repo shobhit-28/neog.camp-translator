@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&display=swap');
+
 body{
     text-align: center;
     background-color: #FEF9A7;
+    margin: 0px;
+    font-family: 'Kalam', cursive;
 }
 .txtarr{
     border-radius: 1rem;
     padding: 1rem;
+    font-family: 'Kalam', monospace;
 }
 .theme{
     background-color: #FFEE63;
@@ -16,6 +21,12 @@ body{
     border-color: #EA5C2B;
     border-radius: 0.5rem;
 }
-.heading{
-    color: #EA5C2B;
+h1{
+    margin-top: 0px;
+}
+.header{
+    background-color: #EA5C2B;
+    color: #FEF9A7;
+    padding: 1rem;
+    margin-bottom: 1rem;
 }
