@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #FEF9A7;
+}
+.txtarr{
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.theme{
+    background-color: #FFEE63;
+    color: #EA5C2B;
+}
+.btn{
+    padding: 0.5rem;
+    border-width: 1px;
+    border-color: #EA5C2B;
+    border-radius: 0.5rem;
+}
+.heading{
+    color: #EA5C2B;
+}
